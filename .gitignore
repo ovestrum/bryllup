@@ -1,4 +1,4 @@
-*.gem
+$*.gem
 *.sublime-project
 *.sublime-workspace
 .bundle
